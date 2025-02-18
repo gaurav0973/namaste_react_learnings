@@ -1,1 +1,0 @@
-{"mappings":"ACAA","sources":["index.bfac1244.css","index.css"],"sourcesContent":["body {\n  color: #faebd7;\n  background-color: #000;\n}\n/*# sourceMappingURL=index.bfac1244.css.map */\n","body {\r\n    background-color: #000;\r\n    color: antiquewhite;\r\n}"],"names":[],"version":3,"file":"index.bfac1244.css.map"}
